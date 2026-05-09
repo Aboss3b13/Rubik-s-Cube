@@ -4,7 +4,7 @@ This project is a 3D Rubik's Cube app made with C# and WPF. It shows a cube on t
 
 ## What was used to make it
 
-The project was built with: 
+The project was built with:
 
 - C#
 - .NET 8
