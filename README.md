@@ -1,6 +1,6 @@
 # Rubik's Cube
 
-This project is a 3D Rubik's Cube app made with C# and WPF. It shows a cube on the screen, lets you rotate it, scramble it, and solve it with a beginner-style solving method.
+This project is a 3D Rubik's Cube app made with C# and WPF. It shows a cube on the screen, lets you rotate it, scramble it, and solve it with a beginner-style solving method. 
  
 ## What was used to make it 
 
