@@ -1,6 +1,6 @@
 # 🎮 Rubik's Cube Simulator & Solver 
 
-A comprehensive interactive 3D Rubik's Cube simulator built with **C# and WPF**. This application provides a complete cube manipulation experience with real-time 3D visualization, keyboard and mouse controls, and an intelligent automatic solver using the beginner's layer-by-layer method. 
+A comprehensive interactive 3D Rubik's Cube simulator built with **C# and WPF**. This application provides a complete cube manipulation experience with real-time 3D visualization, keyboard and mouse controls, and an intelligent automatic solver using the beginner's layer-by-layer method.
 
 ## 🌟 Overview
 
